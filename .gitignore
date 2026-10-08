@@ -1,0 +1,13 @@
+# Local application state
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Temporary and generated working files
+.superpowers/
+.trash/
+cad_mcp.log
+*.tmp
+
+# Operating-system metadata
+Thumbs.db
+Desktop.ini
